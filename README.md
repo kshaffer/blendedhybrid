@@ -1,2 +1,4 @@
-# blendedhybrid
-"From Blended Learning to Hybrid Pedagogy", Bates College, March 10, 2017
+# From Blended Learning to Hybrid Pedagogy
+
+Presentation given at Bates College, March 10, 2017.
+Kris Shaffer, Ph.D.
